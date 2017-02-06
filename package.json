@@ -1,0 +1,28 @@
+{
+    "name": "theme-atom-one-light",
+    "displayName": "Atom One Light Theme",
+    "description": "One Light Theme based on Atom",
+    "version": "0.2.0",
+    "publisher": "b4456609",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "atom",
+        "theme",
+        "light",
+        "one light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom One Light",
+                "uiTheme": "vs",
+                "path": "./themes/atomOneLight.tmTheme"
+            }
+        ]
+    }
+}
