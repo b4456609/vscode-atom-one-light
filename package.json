@@ -2,7 +2,7 @@
     "name": "theme-atom-one-light",
     "displayName": "Atom One Light Theme",
     "description": "One Light Theme based on Atom",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "b4456609",
     "engines": {
         "vscode": "^1.5.0"
