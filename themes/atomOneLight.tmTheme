@@ -15,7 +15,7 @@
 				<string>#526FFF</string>
 				<key>foreground</key>
 				<string>#383A42</string>
-				<key>invisibles</key>
+				<key>invisible</key>
 				<string>#383A42</string>
 				<key>lineHighlight</key>
 				<string>#F0F0F1</string>
@@ -641,7 +641,7 @@
 			<key>settings</key>
 			<dict>
 			<key>foreground</key>
-			<string>white</string>
+			<string>red</string>
 			<key>background</key>
 			<string>#ff1414</string>
 			</dict>

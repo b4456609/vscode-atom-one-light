@@ -17,17 +17,15 @@
         "one light"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Atom One Light",
-                "uiTheme": "vs",
-                "path": "./themes/atomOneLight.tmTheme"
-            }
-        ]
+        "themes": [{
+            "label": "Atom One Light",
+            "uiTheme": "vs",
+            "path": "./themes/atomOneLight.tmTheme"
+        }]
     },
     "homepage": "https://github.com/b4456609/vscode-atom-one-light",
     "repository": {
         "type": "git",
         "url": "https://github.com/b4456609/vscode-atom-one-light"
-    },
+    }
 }
