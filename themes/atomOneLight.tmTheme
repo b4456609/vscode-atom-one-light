@@ -19,8 +19,6 @@
 				<string>#383A42</string>
 				<key>lineHighlight</key>
 				<string>#F0F0F1</string>
-				<key>selection</key>
-				<string>#e5e5e6</string>
 				<key>guide</key>
 				<string>#cbd3ff</string>
 			</dict>
