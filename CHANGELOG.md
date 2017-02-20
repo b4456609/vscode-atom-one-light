@@ -3,6 +3,10 @@ All notable changes to the "theme-onelight" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.4]
+### Changed
+- Change selection color
+
 ## [0.2.3]
 ### Fixed
 - Fix invisible color
